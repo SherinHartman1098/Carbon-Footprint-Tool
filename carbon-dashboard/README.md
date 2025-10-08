@@ -50,4 +50,4 @@ It provides insights and suggestions to help users make greener choices.
 • 🌍 Personalized reduction tips
 
 📸 Preview
-![App Preview](./dashboard.png)
+![App Preview](./public/dashboard.png)
