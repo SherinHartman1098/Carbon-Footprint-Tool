@@ -26,27 +26,28 @@ It provides insights and suggestions to help users make greener choices.
 
 2. **Install dependencies**
 
-````bash
- npm install
+   ```bash
+   npm install
+
+   ```
 
 3. **Run the development server**
- ```bash
- npm run dev
+
+   ```bash
+   npm run dev
+
+   ```
 
 4. **Open in your browser**
- ```bash
- http://localhost:5173
-
+   ```bash
+   http://localhost:5173
+   ```
 
 🌱 Features
-	•	🧮 Carbon footprint calculator
-	•	⚡ Energy, travel, and food input tracking
-	•	📊 Interactive charts and clean UI
-	•	🌍 Personalized reduction tips
+• 🧮 Carbon footprint calculator
+• ⚡ Energy, travel, and food input tracking
+• 📊 Interactive charts and clean UI
+• 🌍 Personalized reduction tips
 
 📸 Preview
-![App Preview](https://github.com/SherinHartman1098/Carbon-Footprint-Tool/blob/main/public/dashboard.png?raw=true)
-
-## Built with ❤️ by Sherin Hartman
-
-````
+![App Preview](./dashboard.png)
